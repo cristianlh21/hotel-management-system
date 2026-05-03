@@ -22,7 +22,6 @@
     "noFallthroughCasesInSwitch": true,
 
     /* --- AGREGAR ESTA SECCIÓN PARA EL ALIAS --- */
-    "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
     }
